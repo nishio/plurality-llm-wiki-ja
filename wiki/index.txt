@@ -93,7 +93,14 @@ vTaiwan	entity	entities/vTaiwan.md	台湾政府と市民が協働して法案を
 鈴木健	entity	entities/鈴木健.md	[[なめらかな社会とその敵]] の著者。スマートニュース創業者の一人で、本書日本語版の [[日本語版解説]] 執筆者。
 関治之	entity	entities/関治之.md	[[Code for Japan]] 代表 (hal sk)。日本のシビックテック運動の中心人物で、Software Design 誌に [[第139回 民主主義を発展させるためのテクノロジー「Plurality」]] を寄稿。[[Plurality Tokyo]] / [[Glen in Japan]] の Host を務めた。
 高木俊輔	entity	entities/高木俊輔.md	Plurality 日本語コミュニティの中心メンバーの一人 (Scrapbox ハンドル: tkgshn / taka)。[[グレン・ワイル]] の本プロジェクト立ち上げ時に最初に翻訳協力に手を挙げ、[[Plurality Tokyo]] の運営、[[なめらかな社会とその敵]] / [[PICSY]] の英語圏発信などを担う。
+2024-01-08 Audrey and Glen Weyl QA	source	sources/2024-01-08 Audrey and Glen Weyl QA.md	2024-01-08 [[グレン・ワイル]] 来日中に行われた [[オードリー・タン]] とのジョイント Q&A セッション (DeepL+GPT-4 による日本語要約)。社会・文化・テクノロジー・民主主義の交差点に関する両著者の体系的な口頭定式化。
 Audrey Tang Keynote in Plurality Tokyo	source	sources/Audrey Tang Keynote in Plurality Tokyo.md	2023-04-14 の [[Plurality Tokyo]] (#1) における [[オードリー・タン]] の Keynote とその日本語翻訳。[[nishio]] が動画キャプションの英語を元に対訳形式で翻訳・訳注を付した、日本語圏での Tang 言説の中核 source。
+Glen in Japan Keynote	source	sources/Glen in Japan Keynote.md	2024-01-03 [[Glen in Japan]] における [[グレン・ワイル]] の Keynote の英日対訳 (動画・字幕付き)。Glen が直接 [[プルラリティ]] のビジョンを日本の聴衆に語った最も詳細な記録の一つ。
+Meetup with Audrey and Glen	source	sources/Meetup with Audrey and Glen.md	2024-07-23 に開催された [[オードリー・タン]] × [[グレン・ワイル]] の private meetup の Discord 経由動画と Claude 要約。「対立は恐れずに活用すべきエネルギー」という Plurality の中核命題が際立つ。
+Pluralityとは-DeepResearch-nishio	source	sources/Pluralityとは-DeepResearch-nishio.md	2025-02-05 [[nishio]] が OpenAI Deep Research を使って生成し編集した日本人向け Plurality 解説記事 (CC-0)。Audrey/Glen の英語・中国語ソースを横断検索した上での「日本人向けの再構成」として、日本コミュニティでの Plurality 言説の到達点を示す。
+Plurality伊藤穰一鈴木健石川裕也対談	source	sources/Plurality伊藤穰一鈴木健石川裕也対談.md	[[伊藤穰一]] × [[鈴木健]] × 石川裕也 (Gaudiy 創業者) の 3 者対談「Plurality、なめらかな社会、ファン国家から考える課題と社会実装」。日本の Plurality 言説の歴史的経緯 (なめら会議系譜) を [[鈴木健]] が自ら詳細に語る source。
 plurality-book	source	sources/plurality-book.md	『PLURALITY プルラリティ』日本語版 (オードリー・タン、E・グレン・ワイル、⿻コミュニティ著、山形浩生訳、鈴木健解説、サイボウズ式ブックス、2025)。
 plurality-japanese-scrapbox	source	sources/plurality-japanese-scrapbox.md	日本語コミュニティの Plurality 関連議論場 plurality-japanese Scrapbox プロジェクトの export (1421 pages)。翻訳議論・イベント記録・概念解説・対談録など、日本語版『PLURALITY』刊行までの集合知形成の現場。
+サイボウズ式ブックス刊行記念トークイベント	source	sources/サイボウズ式ブックス刊行記念トークイベント.md	2025 年の [[plurality-book]] 日本語版刊行に合わせて開催された [[オードリー・タン]] × [[グレン・ワイル]] のサイボウズ式ブックス公開トークイベント (モデレーター: 竹下隆一郎)。日本における Plurality 言説の到達点を示す対話記録。
+デジタル民主主義の未来	source	sources/デジタル民主主義の未来.md	2025 年 [[オードリー・タン]] × 松尾豊 × 上野山勝也の対談「デジタル民主主義の未来」(トグルホールディングス主催 Innovation Dialogue #004)。日本の AI 戦略の文脈で Plurality を語る貴重な対話。
 第139回 民主主義を発展させるためのテクノロジー「Plurality」	source	sources/第139回 民主主義を発展させるためのテクノロジー「Plurality」.md	[[Code for Japan]] の関治之 (hal sk) による Software Design 2023 年 7 月号への寄稿。日本の技術者に向けて [[プルラリティ]] を解説した初期の日本語まとまった解説記事の一つ。

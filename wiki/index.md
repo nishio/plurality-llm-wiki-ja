@@ -52,8 +52,19 @@
 
 - [[plurality-book]] — 『PLURALITY プルラリティ』日本語版
 - [[plurality-japanese-scrapbox]] — plurality-japanese Scrapbox export
-- [[Audrey Tang Keynote in Plurality Tokyo]] — Tang の Plurality Tokyo Keynote (2023-04-14)
+
+### Audrey Tang / Glen Weyl 日本での発言・対談 (時系列)
+- [[Audrey Tang Keynote in Plurality Tokyo]] (2023-04-14) — Tang の Plurality Tokyo Keynote
+- [[Glen in Japan Keynote]] (2024-01-03) — Glen の来日 Keynote
+- [[2024-01-08 Audrey and Glen Weyl QA]] (2024-01-08) — タン×ワイル 2 者 Q&A
+- [[Meetup with Audrey and Glen]] (2024-07-23) — Plurality Tokyo Discord 主催 private meetup
+- [[サイボウズ式ブックス刊行記念トークイベント]] (2025) — タン×ワイル日本語版刊行記念トーク
+- [[デジタル民主主義の未来]] (2025) — タン × 松尾豊 × 上野山勝也対談
+
+### 日本語コミュニティ独自の解説
 - [[第139回 民主主義を発展させるためのテクノロジー「Plurality」]] — Code for Japan 関治之による Software Design 寄稿 (2023)
+- [[Pluralityとは-DeepResearch-nishio|Pluralityとは(Deep Research+nishio)]] — nishio 編集の Plurality 入門 (2025-02, CC-0)
+- [[Plurality伊藤穰一鈴木健石川裕也対談]] — 伊藤穰一×鈴木健×石川裕也の対談
 
 ## Analyses
 
