@@ -3,7 +3,19 @@
 > 直近 7 日分のみ。全件 compact 履歴は [log.txt](log.txt)、それより古い entry の詳細は `git log -- wiki/log.md` で参照。
 > 更新は `python3 scripts/refresh_logs.py` で log.txt と log.md を再生成する。
 
+## [2026-05-26 23:30] ingest | plurality-japanese Scrapbox の selective ingest
+
+
+- source ページ 3 件を作成: [[plurality-japanese-scrapbox]] (1421 page export 全体)、[[Audrey Tang Keynote in Plurality Tokyo]] (2023-04-14 keynote 対訳)、[[第139回 民主主義を発展させるためのテクノロジー「Plurality」]] (関治之 Software Design 寄稿)
+- concept ページ 4 件を作成: [[プルラリティの訳語]] (2023-2024 の訳語論争)、[[シンギュラリティ]] (Plurality と対置される概念)、[[協調的多様性]] (Tang の言い換え)
+- entity ページ 9 件を作成: [[Plurality Tokyo]]、[[Glen in Japan]]、[[Code for Japan]]、[[nishio]]、[[サイボウズ]]、[[Dos Monos]]、[[伊藤穰一]]、[[Funding the Commons Tokyo]]、[[高木俊輔]]、[[関治之]]
+- 既存ページ 6 件に Updates セクションで supplementary material を追加: [[鈴木健]] (なめ敵会・Plurality 比較講演・伊藤穰一対談)、[[オードリー・タン]] (Plurality Tokyo Keynote・真鶴視察・Dos Monos 楽曲)、[[グレン・ワイル]] (来日経緯・Twitter 翻訳公募・衛谷倫の日本名)、[[日本科学未来館]] ("@miraikan ... most allied to Plurality" 評)、[[Polis]] (日本コミュニティでの受容)、[[RadicalxChange]] (日本コミュニティ接続)、[[プルラリティ]] (訳語経緯と Tang による別定式化)
+- index.md に新規ページの navigation 追加
+- 取り組みの中心仮説: 「日本語コミュニティでは Plurality を [[シンギュラリティ]] への対概念として説明する語り口が他言語圏より強調されている」── [[plurality-japanese-scrapbox]] のテキスト密度から観察された傾向
+
 ## [2026-05-26 19:45] ingest | brief-mention pages の backfill
+
+
 
 
 - entity ページ 19 個を作成: [[アイザック・アシモフ]], [[アイン・ランド]], [[イアン・バンクス]], [[イーロン・マスク]], [[ゲオルク・ジンメル]], [[サム・アルトマン]], [[ジャロン・ラニアー]], [[ジョン・デューイ]], [[ニック・ボストロム]], [[ニール・スティーヴンスン]], [[ノーバート・ウィーナー]], [[バラジ・スリニバサン]], [[ピーター・ティール]], [[レイ・カーツワイル]], [[孫文]], [[Cortico]], [[Join]], [[東京都知事選]], [[総統杯ハッカソン]]
@@ -12,6 +24,8 @@
 - 残る broken wikilink は章節リンク (1-0 〜 7-1) と [[日本語版刊行に寄せて]] / [[日本語版解説]] の意図的未作成のみ
 
 ## [2026-05-26 18:30] ingest | Plurality 本（日本語版）の full ingest
+
+
 
 
 

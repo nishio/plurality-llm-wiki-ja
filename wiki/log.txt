@@ -3,5 +3,6 @@
 # Format: <YYYY-MM-DD HH:MM>\t<type>\t<title>
 # Regenerate: python3 scripts/refresh_logs.py
 
+2026-05-26 23:30	ingest	plurality-japanese Scrapbox の selective ingest
 2026-05-26 19:45	ingest	brief-mention pages の backfill
 2026-05-26 18:30	ingest	Plurality 本（日本語版）の full ingest

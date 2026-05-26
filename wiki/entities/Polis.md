@@ -31,3 +31,10 @@ sources:
 ## Open Questions
 
 - 「Polis」「ポリス」と表記する際の、ギリシャ語のポリス（都市国家）との連想は、本書の文脈で意図的か（小さな民主政治の単位として）。
+
+## Updates
+
+### 2026-05-26: 日本コミュニティでの受容
+
+[[plurality-japanese-scrapbox]] によれば、Polis は [[Code for Japan]] / [[Plurality Tokyo]] コミュニティで早期に注目され、2023-05-12 に「Polis と Plurality 勉強会」が開催された ([[nishio]] 主催)。[[plurality-japanese-scrapbox]]より。
+[[安野貴博]] の 2024 年 [[東京都知事選]] における [[ブロードリスニング]] 実装にも、Polis 的なクラスタリング手法が用いられた。

@@ -9,6 +9,8 @@
 - [[plurality-book]] — 本書（日本語版）の書誌情報と章立て、出典の中心
 - [[プルラリティ]] — 中心概念。「[[社会的差異を超えたコラボレーションのための技術]]」と定義される
 - [[數位]] — ⿻ 記号と関連する台湾華語の文字
+- [[プルラリティの訳語]] — 訳語選定の集合的議論 (2023-2024)
+- [[plurality-japanese-scrapbox]] — 日本語コミュニティの議論場 (Scrapbox export, 1421 pages)
 
 ## Concepts（思想・概念）
 
@@ -36,14 +38,22 @@
 - [[ハンナ・アーレント]] / [[ダニエル・アレン]] / [[ヘンリー・ジョージ]] / [[J・C・R・リックライダー]]
 
 ### 日本コミュニティ
-- [[安野貴博]] / [[日本科学未来館]]
+- [[安野貴博]] / [[日本科学未来館]] / [[nishio]] / [[高木俊輔]] / [[関治之]] / [[伊藤穰一]]
 
 ### プラットフォーム・組織
 - [[台湾]] / [[g0v]] / [[vTaiwan]] / [[Polis]] / [[Talk to the City]] / [[RadicalxChange]]
+- [[Code for Japan]] / [[Plurality Tokyo]] / [[サイボウズ]] / [[Funding the Commons Tokyo]]
+
+### イベント・文化的接続
+- [[Glen in Japan]] (2024-01-03)
+- [[Dos Monos]] (Civil Rap Song ft. Audrey Tang)
 
 ## Sources
 
 - [[plurality-book]] — 『PLURALITY プルラリティ』日本語版
+- [[plurality-japanese-scrapbox]] — plurality-japanese Scrapbox export
+- [[Audrey Tang Keynote in Plurality Tokyo]] — Tang の Plurality Tokyo Keynote (2023-04-14)
+- [[第139回 民主主義を発展させるためのテクノロジー「Plurality」]] — Code for Japan 関治之による Software Design 寄稿 (2023)
 
 ## Analyses
 
