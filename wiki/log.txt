@@ -3,6 +3,7 @@
 # Format: <YYYY-MM-DD HH:MM>\t<type>\t<title>
 # Regenerate: python3 scripts/refresh_logs.py
 
+2026-05-27 11:30	ingest	a.txt (plurality-in-japan-overview) ingest
 2026-05-27 00:27	second-pass	post-book 知識を踏まえた本書再読
 2026-05-26 23:55	ingest	JA 言語の Audrey Tang / Glen Weyl 発言サーベイ
 2026-05-26 23:30	ingest	plurality-japanese Scrapbox の selective ingest
