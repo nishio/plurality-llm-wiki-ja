@@ -2,7 +2,7 @@
 
 多言語 [plurality-llm-wiki](https://github.com/nishio/plurality-llm-wiki) wiki森 の **日本語版**。日本語 Plurality 言説における概念体系 ── Plurality 本日本語版、和訳コミュニティ議論、日本イベント、Audrey 講演の和訳・要約などをソースとする。
 
-**公開サイト:** https://nishio.github.io/plurality-llm-wiki-ja/
+**閲覧 URL:** https://nishio.github.io/plurality-llm-wiki-ja/
 
 ## 兄弟 wiki との関係
 
