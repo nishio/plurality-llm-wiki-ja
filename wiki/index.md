@@ -28,6 +28,7 @@
 - [[拡張熟議]] / [[ブロードリスニング]]
 - [[ポスト表象コミュニケーション]] / [[没入型共有現実]]
 - [[適応型管理行政]] / [[社会市場]] / [[データ連合]]
+- [[Futarchy]] (予測市場による政策選定、チームみらいが衆院選 2026 マニフェストで実験導入志向)
 
 ## Entities
 
@@ -43,6 +44,7 @@
 ### プラットフォーム・組織
 - [[台湾]] / [[g0v]] / [[vTaiwan]] / [[Polis]] / [[Talk to the City]] / [[RadicalxChange]]
 - [[Code for Japan]] / [[Plurality Tokyo]] / [[サイボウズ]] / [[Funding the Commons Tokyo]]
+- [[チームみらい]] / [[広聴AI]] / [[いどばた]] / [[みらい議会]] / [[みらいまる見え政治資金]] / [[Polimoney]] (デジタル民主主義 2030 / チームみらい系プロダクト群)
 
 ### イベント・文化的接続
 - [[Glen in Japan]] (2024-01-03)
@@ -65,6 +67,14 @@
 - [[第139回 民主主義を発展させるためのテクノロジー「Plurality」]] — Code for Japan 関治之による Software Design 寄稿 (2023)
 - [[Pluralityとは-DeepResearch-nishio|Pluralityとは(Deep Research+nishio)]] — nishio 編集の Plurality 入門 (2025-02, CC-0)
 - [[Plurality伊藤穰一鈴木健石川裕也対談]] — 伊藤穰一×鈴木健×石川裕也の対談
+
+### 政党・行政 articulation (post-book)
+- [[plurality-in-japan-overview]] — 2026-05 時点の日本 Plurality 議論 overview
+- [[team-mirai-manifesto]] — チームみらい衆院選 2026 マニフェスト本体 (11 政策章)
+- [[ブロードリスニング選挙書籍]] — 『選挙を変えたブロードリスニング』(インプレス、2025-2026 刊行予定)
+
+### 未取得 (人間の手動取得待ち)
+- [[wishlist]] — 取得失敗 source の list (集英社新書プラス連載 / dd2030.org web / Twitter / WIRED 等)
 
 ## Analyses
 
