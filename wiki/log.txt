@@ -3,6 +3,7 @@
 # Format: <YYYY-MM-DD HH:MM>\t<type>\t<title>
 # Regenerate: python3 scripts/refresh_logs.py
 
+2026-09-24 00:27	ingest	リバースアライメント (Weyl/Evans/White 2026-07) と日本の位置
 2026-06-02 01:00	ingest	「納得」字義 + 古語「のうとく」+ 4 言語 topography 反映
 2026-05-29 11:30	ingest	「納得」を JA-native concept として page 化
 2026-05-28 14:00	ingest	5 candidate source 群 attempt (集英社新書 / DD2030 / 鈴木健 / 書評 / チームみらい)

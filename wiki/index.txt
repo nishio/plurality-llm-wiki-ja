@@ -29,6 +29,7 @@ PICSY	concept	concepts/PICSY.md	[[鈴木健]] が提案する伝播型貨幣シ�
 ポスト表象コミュニケーション	concept	concepts/ポスト表象コミュニケーション.md	言語や記号の限界を超え、神経インターフェース・媒介現実・GFM を活用して直感的で直接的なやりとりを促進するコミュニケーション形式。
 リバタリアニズム	concept	concepts/リバタリアニズム.md	アトム的個人の独立主権を最重要視し、暗号・市場メカニズムで「強制」から逃れようとする技術社会思想。本書が [[テクノクラシー]] とともに対比・批判する立場。
 リバタリアン	concept	concepts/リバタリアン.md	[[リバタリアニズム]] の担い手・信奉者を指す語。本書では [[狭い回廊]] のもう一方、暗号と分散ネットワークで集団的強制から逃れようとする立場を取る人を指す。
+リバースアライメント	concept	concepts/リバースアライメント.md	AI を人間の価値に沿わせる通常の alignment に対し、AI を受け止める側 (制度・規範・技能・ガバナンス) を設計し直す仕事。2026-07 の [[reverse-alignment-noema]] で [[グレン・ワイル]] らが命名。日本語圏では [[ブロードリスニング]] がその実例として名指しされた。
 一元論的アトム主義	concept	concepts/一元論的アトム主義.md	世界がアトム（個人）と社会全体だけで構成されているという発想。[[リバタリアニズム]] と [[テクノクラシー]] の共通基盤として本書が批判する世界観。
 中央集権	concept	concepts/中央集権.md	民主主義を脅かす IT の２つの脅威のうち、AI と監視技術によって権力を少数のチョークポイントに集中させる側面。
 分人	concept	concepts/分人.md	ジル・ドゥルーズ由来の概念を [[鈴木健]] が政治的に拡張したもの。ひとりの人間の中に多様で潜在的に矛盾した考えを認める。
@@ -49,6 +50,7 @@ PICSY	concept	concepts/PICSY.md	[[鈴木健]] が提案する伝播型貨幣シ�
 社会的差異を超えたコラボレーションのための技術	concept	concepts/社会的差異を超えたコラボレーションのための技術.md	本書が与える [[プルラリティ]] の核となる定義。深さと広さのトレードオフを技術で押し広げる射程を指す。
 納得	concept	concepts/納得.md	日本語 デジタル民主主義言説における中心概念。「人が内的に理解して受け入れる」状態。team-mirai 衆院選 2026 マニフェストでは民意反映と合意形成の目的そのものとして articulate。plurality-japanese Scrapbox では 1421 ページ中 24 ページで 40 回出現。Plurality 本 JA 版 (翻訳) では 2 回のみで、native 頻度の 20 倍以上の差。
 資本主義	concept	concepts/資本主義.md	本書では市場経済の現代的形態を指す語として、[[社会市場]] の議論で批判的に分析される。「市場 vs [[国家]]」の二項対立を超えるのが本書の立場。
+道具のかたちをした制度	concept	concepts/道具のかたちをした制度.md	うまくいく制度は、その時代を支配する認知技術の構造を映す ── ニューラルネットワークの時代には、制度もその文法 (高次元の位置・重みづけ・差異を平均で消さない・貢献の追跡) を実装すべきだ、という [[リバースアライメント]] 連合の賭け。ワーキングペーパー "In the Image of Their Tools" として準備中。
 適応型管理行政	concept	concepts/適応型管理行政.md	「硬直性」と「複雑性/ややこしさ」という相反する 2 つの不満を、GFM (生成基盤モデル) の活用で同時に解決しようとする行政の未来形。
 非決定権力	concept	concepts/非決定権力.md	AI による論点整理・抽出が新たに作る、アジェンダ設定上のバイアス。「どの論点を見えるものにするか」を決める権力で、形式的決定の場の外側で働く。
 Code for Japan	entity	entities/Code for Japan.md	市民主導で公共領域に貢献するシビックテック団体。代表は関治之 (hal sk)。日本における [[プルラリティ]] イベントの主要 supporter であり、[[Plurality Tokyo]] のサポート組織の一つ。
@@ -115,6 +117,8 @@ Plurality伊藤穰一鈴木健石川裕也対談	source	sources/Plurality伊藤�
 plurality-book	source	sources/plurality-book.md	『PLURALITY プルラリティ』日本語版 (オードリー・タン、E・グレン・ワイル、⿻コミュニティ著、山形浩生訳、鈴木健解説、サイボウズ式ブックス、2025)。
 plurality-in-japan-overview	source	sources/plurality-in-japan-overview.md	2026 年 5 月時点の日本における Plurality 議論の overview note。三層構造（思想紹介・実装実証・制度批判規範）と六論点（ブロードリスニング・いどばた・Community Notes/Polis・QV/QF・「調和」「空気」・憲法/権力分散）を整理した synthesis 文書。
 plurality-japanese-scrapbox	source	sources/plurality-japanese-scrapbox.md	日本語コミュニティの Plurality 関連議論場 plurality-japanese Scrapbox プロジェクトの export (1421 pages)。翻訳議論・イベント記録・概念解説・対談録など、日本語版『PLURALITY』刊行までの集合知形成の現場。
+reverse-alignment-noema	source	sources/reverse-alignment-noema.md	E. Glen Weyl / James Evans / Chris White「What Humanity Needs To Flourish In The Next Decade」(Noema Magazine, 2026-07-21)。AI の能力向上に対して社会の受け入れ側を設計し直す仕事を「reverse alignment」と名づけ、3 つの失敗様式・5 つの歴史的先例・12 の sociotechnical grand challenges を提示した論考。
+reversealignment-jp	source	sources/reversealignment-jp.md	reversealignment.jp — Sociotechnical Grand Challenges Coalition の公式サイト日本語版 (原版 reversealignment.ai)。12 の重大課題の日本語表現、3 つの失敗様式の訳語、独自主張「道具のかたちをした制度」、賛同者 26 名を掲載。
 team-mirai-manifesto	source	sources/team-mirai-manifesto.md	チームみらい衆院選 2026 マニフェスト本体 (manifesto-body) の全 11 政策章 + ビジョン章。政党による Plurality 実装の articulation。
 wishlist	source	sources/wishlist.md	取得を試みたが access できなかった source の list。人間の手動取得を待つ。
 サイボウズ式ブックス刊行記念トークイベント	source	sources/サイボウズ式ブックス刊行記念トークイベント.md	2025 年の [[plurality-book]] 日本語版刊行に合わせて開催された [[オードリー・タン]] × [[グレン・ワイル]] のサイボウズ式ブックス公開トークイベント (モデレーター: 竹下隆一郎)。日本における Plurality 言説の到達点を示す対話記録。

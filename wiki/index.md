@@ -20,6 +20,7 @@
 - [[反社会]] / [[中央集権]]（IT が民主主義を脅かす 2 つのやり方）
 - [[玉山からの眺め]] / [[デジタル民主主義]] / [[デジタル民主主義 2030]]
 - [[なめらかな社会とその敵]] / [[分人]]
+- [[リバースアライメント]] / [[道具のかたちをした制度]] (2026-07 [[グレン・ワイル]] らの命名。AI ではなく社会の受け皿を設計し直す側の課題)
 
 ## Concepts（メカニズム・実践）
 
@@ -72,6 +73,10 @@
 - [[plurality-in-japan-overview]] — 2026-05 時点の日本 Plurality 議論 overview
 - [[team-mirai-manifesto]] — チームみらい衆院選 2026 マニフェスト本体 (11 政策章)
 - [[ブロードリスニング選挙書籍]] — 『選挙を変えたブロードリスニング』(インプレス、2025-2026 刊行予定)
+
+### 国際的な制度アジェンダからの参照 (post-book)
+- [[reverse-alignment-noema]] — Weyl / Evans / White「What Humanity Needs To Flourish In The Next Decade」(Noema, 2026-07-21)。日本の [[ブロードリスニング]] / [[チームみらい]] を実例に引く
+- [[reversealignment-jp]] — Sociotechnical Grand Challenges Coalition 公式サイト日本語版 (12 課題の日本語表現・賛同者 26 名)
 
 ### 未取得 (人間の手動取得待ち)
 - [[wishlist]] — 取得失敗 source の list (集英社新書プラス連載 / dd2030.org web / Twitter / WIRED 等)

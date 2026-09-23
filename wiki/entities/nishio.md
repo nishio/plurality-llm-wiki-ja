@@ -3,6 +3,7 @@ type: entity
 summary: "西尾泰和。本 wiki の主催者。サイボウズ・ラボ研究員。[[plurality-japanese-scrapbox]] および GitHub 原稿自動翻訳基盤の運用、[[Plurality勉強会]] の講師など、日本語 Plurality コミュニティの中心的書き手の一人。"
 sources:
   - plurality-japanese-scrapbox.md
+  - reverse-alignment-noema.md
 ---
 
 # nishio
@@ -38,3 +39,9 @@ sources:
 - [[plurality-book]] — 翻訳プロセスへの主要貢献者
 - [[Plurality Tokyo]] — 参加者
 - [[サイボウズ]] — 所属組織
+
+## Updates
+
+### 2026-09-24: [[リバースアライメント]] の日本語 reframe
+
+[[グレン・ワイル]] ら [[reverse-alignment-noema]] の "reverse alignment" を X で日本語に置き直した (<https://x.com/nishio/status/2102776172270821511>)。骨子は「『アライメント』という語が暗黙に『変わるべきなのは AI であり人間社会は今のままでよい』という前提を運んでしまう」という指摘と、[[ブロードリスニング]] を「一時的な意見募集イベントで終わらせず、行政と政治の**常設機能**として組み込む」という articulation。全文と位置づけは [[リバースアライメント]] に置いた。
