@@ -3,7 +3,19 @@
 > 直近 7 日分のみ。全件 compact 履歴は [log.txt](log.txt)、それより古い entry の詳細は `git log -- wiki/log.md` で参照。
 > 更新は `python3 scripts/refresh_logs.py` で log.txt と log.md を再生成する。
 
+## [2026-09-30 23:59] filing-back | wiki森の横断照合で見つかった食い違い 6 件を修正
+
+
+- wiki森の public wiki 12個を grasp `cross-project-spreads` で同名 handle ごとに束ね、Gemini（3.8 Flash medium / 3.1 Pro）に wiki をまたぐ食い違いを挙げさせ、Claude が原文と照らして判定した（2026-09-30、galleria の taskF）。Gemini の修正案はそのまま当てていない。
+- 章番号: [[Polimoney]] / [[Futarchy]] / [[デジタル民主主義 2030]] の「5-2 投票」「6-2 メディア」を目次 ([[plurality-book]]) に合わせ [[5-6 多元投票]] / 6-3 メディアへ。
+- [[Futarchy]]: 「本書に直接的言及はない」→ 英語版 5-6 の本文と脚注に Hanson の提案として出る (上流 repo で確認、日本語版の訳語は未確認)。
+- [[reversealignment-jp]]: 「DD2030 系は入っていない」→ 日本からの賛同者 [[鈴木健]] は DD2030 共同設立者。実践の担い手は入っていない、に修正 ([[鈴木健]] の Updates と整合)。
+- [[拡張熟議]]: Polis を「[[g0v]] が開発した OSS」→ Computational Democracy Project の OSS (vTaiwan は g0v 発のプロセス)。
+- [[オードリー・タン]] 年表: 2024 年に退いたのは数位発展部部長 (22 行の本書引用は触らない)。
+- [[ブロードリスニング]]: DD2030 で安野・鈴木が「実験」中の現在形に、安野の 2025-05 ボード辞職 ([[安野貴博]]) を反映。
+
 ## [2026-09-24 00:27] ingest | リバースアライメント (Weyl/Evans/White 2026-07) と日本の位置
+
 
 
 [[nishio]] の X 投稿 (2026-09-24 00:04) とその解説を起点に、web 原文 2 件を直接取得して ingest。
