@@ -41,5 +41,9 @@ sources:
 
 ## Open Questions
 
-- [[グレン・ワイル]] / [[オードリー・タン]] が Futarchy をどう評価するか。Robin Hanson の論はリバタリアン色が強く、Plurality と直接の親和性は薄い可能性
+- [[plurality-book]] [[5-6 多元投票]] は「未来支配（Futarchy）」に触れ、予測と投票の混合版を本書執筆で使ったと述べる。残る問いは、[[グレン・ワイル]] / [[オードリー・タン]] がハンソンの提案のどの部分を評価・支持するか。
 - [[team-mirai-manifesto]] は Futarchy を 3 レベル framework の「+ 補足」として、独立的に articulate している。これは Plurality より幅広い「合理的集合意思決定」の取り組みとして位置づけられているか
+
+## Updates
+
+- 2026-11-07: [[plurality-book]]より、Futarchy と本書に直接の接点があることを確認し、親和性を推測する問いを支持・評価の範囲の問いへ更新した。予測と投票の混合版の利用は、ハンソン案全体への支持を意味しない（根拠: 5ec0479、2026-10-01；日本語版 p.235、ローカル原本 `/Users/nishio/plurality-llm-wiki/wikis/plurality-llm-wiki-ja/raw/PLURALITY_Japanese.txt:10097–10103`）。 旧項目全文: 「[[グレン・ワイル]] / [[オードリー・タン]] が Futarchy をどう評価するか。Robin Hanson の論はリバタリアン色が強く、Plurality と直接の親和性は薄い可能性」

@@ -29,4 +29,7 @@ sources:
 ## Open Questions
 
 - 「Talk to the City」は固有名詞として原語のまま使われる。日本語名（例：「都市と話そう」「市民意見対話」）を立てないことの意味。
-- 安野貴博の日本での実装が、本書英語版に逆輸入される可能性。
+
+## Updates
+
+- 2026-11-07: 「安野貴博の日本での実装が英語版に逆輸入される可能性」を閉じた。都知事選での Talk to the City 利用は 2024-12-11 の commit で追加され、2024-12-21 15:13:55 -0500 の PR #1043 merge commit で英語原稿の本流に取り込まれた。現在のローカル原本にも存在する。2024 年の印刷版への収録を主張するものではない（根拠: `/Users/nishio/plurality/contents/english/5-4-augmented-deliberation.md:92–98`；`/Users/nishio/plurality` の追加 commit 1e36bbef7293ea6bc5209c196f8e3fbe15dc921d と merge commit 4b9bc739961a73e7858f6abd2237baa8a0a30680（ローカル upstream/main の祖先、第1親との差分で確認）；EN wiki の調査記録 4470272、2026-05-27）。 旧項目全文: 「安野貴博の日本での実装が、本書英語版に逆輸入される可能性。」

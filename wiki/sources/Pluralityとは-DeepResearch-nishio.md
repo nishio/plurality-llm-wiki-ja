@@ -48,5 +48,9 @@ sources:
 
 ## Open Questions
 
-- AI 生成要約と nishio 編集の境界 (どこまでが AI、どこから人手か) は本文中では明示されていない。引用時は「Deep Research + nishio」とまとめて扱うのが妥当
+- 原本冒頭で nishio は「脚注表示などを少し手直しして公開」と説明している。残る問いは、「など」に含まれる編集範囲と、AI 生成原文との差分を逐語的に確認できるか。現状は「Deep Research + nishio」として扱い、個別の文をどちらの執筆と断定しない。
 - 「日本人にとっての意味」の章で Society 5.0 への接続を提示しているが、本書 [[plurality-book]] や [[オードリー・タン]]・[[グレン・ワイル]] の言説には Society 5.0 への直接言及はほぼない。この接続は nishio による独自の編集挿入と推測される
+
+## Updates
+
+- 2026-11-07: 原本冒頭で本人が説明した編集範囲を問いに補った。西尾は「脚注表示などを少し手直しして公開」と述べている。ただし生成原文との差分は無く、逐語的な境界や Society 5.0 の文の執筆者は確定しない（根拠: [[plurality-japanese-scrapbox]] の原本 `/Users/nishio/plurality-llm-wiki/wikis/plurality-llm-wiki-ja/raw/plurality-japanese.json:1309`、pages[1021].lines[1]、本人記載日 2025-02-05）。 旧項目全文: 「AI 生成要約と nishio 編集の境界 (どこまでが AI、どこから人手か) は本文中では明示されていない。引用時は「Deep Research + nishio」とまとめて扱うのが妥当」
