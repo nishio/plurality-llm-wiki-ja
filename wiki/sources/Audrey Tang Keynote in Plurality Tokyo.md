@@ -51,3 +51,7 @@ sources:
 ## このソースの価値
 
 [[plurality-book]] (書籍) より前に行われた Plurality の口頭での定式化として、本書を補完する独立 source。特に「IoT → Internet of Beings」「VR → shared reality」「ML → collaborative learning」「UX → human experience」のフレーズ群は、書籍にはこの形で出現せず、Tang の対話的・詩的なメッセージング戦略を観察できる。
+
+## Updates
+
+- 2026-11-07: IoT・VR・機械学習・UX・シンギュラリティの 5 連の詩は、本書 2-2「デジタル民主主義の日常」の冒頭にも「オードリー・タン、ジョブディスクリプション、2016」として掲載されている。「書籍にはこの形で出現しない」という説明を訂正し、講演だけの定式とは扱わない（根拠: 元 repo の raw/PLURALITY_Japanese.txt:1962–1974、[[シンギュラリティ]]:17；[[plurality-book]]より）。

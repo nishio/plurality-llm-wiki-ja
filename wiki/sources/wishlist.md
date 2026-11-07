@@ -122,3 +122,7 @@ OSS 系の GitHub repository (`github.com/digitaldemocracy2030/*`) は github.co
 - **失敗**: 集英社新書プラス / dd2030.org web / note.com / Twitter / WIRED / 朝日 / 日経 / theletter.jp / diamond.jp / その他主要メディア
 
 このため、今回 ingest できた範囲は **GitHub 上の OSS 文書 (主にチームみらいマニフェスト 11 章 + DD2030 organization profile)** に限定された。web メディア / SNS / 連載記事の網羅は人間による手動取得を待つ。
+
+## Updates
+
+- 2026-11-07: 書籍原稿の「organization 一覧のみ取得済、個別ファイル名は未確認」という状態を更新。少なくとも README と海外章・台湾章の本文はローカル保存され、2026-11-07 の確認に使われている。原稿全体の取得完了・刊行済みとは判定せず、取得版の commit は未固定（根拠: [[ブロードリスニング選挙書籍]] の Updates 2026-11-07、f2bbd69；/Users/nishio/broad-listening-book-wiki/raw/README.MD:65–70、11_01_台湾.md:1–4）。

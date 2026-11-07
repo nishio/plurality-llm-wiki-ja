@@ -33,3 +33,5 @@ sources:
 ## Updates
 
 - 2026-11-07: 「安野貴博の日本での実装が英語版に逆輸入される可能性」を閉じた。都知事選での Talk to the City 利用は 2024-12-11 の commit で追加され、2024-12-21 15:13:55 -0500 の PR #1043 merge commit で英語原稿の本流に取り込まれた。現在のローカル原本にも存在する。2024 年の印刷版への収録を主張するものではない（根拠: `/Users/nishio/plurality/contents/english/5-4-augmented-deliberation.md:92–98`；`/Users/nishio/plurality` の追加 commit 1e36bbef7293ea6bc5209c196f8e3fbe15dc921d と merge commit 4b9bc739961a73e7858f6abd2237baa8a0a30680（ローカル upstream/main の祖先、第1親との差分で確認）；EN wiki の調査記録 4470272、2026-05-27）。 旧項目全文: 「安野貴博の日本での実装が、本書英語版に逆輸入される可能性。」
+
+- 2026-11-07: 「2024 年 10 月 15 日の衆議院特別選挙」という記述は、衆院選の選挙特番との取り違え。英語原稿は “a special election program” と書き、保存された日テレの告知は「投票誰にする会議」の配信開始日を 10 月 15 日としている。日本語原本に由来する旧記述は残すが、10 月 15 日を選挙の投開票日とは扱わない（根拠: /Users/nishio/plurality/contents/english/5-4-augmented-deliberation.md:98、同 repo の 32e7e560、2024-12-13；元 repo の raw/plurality-japanese.json「日テレNEWS×2024衆院選×ブロードリスニング」:4–11）。

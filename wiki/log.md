@@ -3,6 +3,10 @@
 > 直近 7 日分のみ。全件 compact 履歴は [log.txt](log.txt)、それより古い entry の詳細は `git log -- wiki/log.md` で参照。
 > 更新は `python3 scripts/refresh_logs.py` で log.txt と log.md を再生成する。
 
+## [2026-11-07 20:30] file back | ページをまたいだ食い違いの監査（Codex gpt-6.1-sol、閉じる 3・現状更新 9・継続 66・人の判断待ち 11、本物 12・古い方が残っている 3・判定できない 6）
+
+- grasp-nishio のセッションから、Codex にページ間の矛盾（数値・日付・決定・名前・状態）を探させ一次ソースでどちらが現状かを確かめさせ、別の Codex セッションが全件を敵対的に検証した。報告は raw/consistency-audit-2026-11-07.md・raw/consistency-verify-2026-11-07.md
+
 ## [2026-11-07 20:30] file back | Open Questions の現状突合（Codex gpt-6.1-sol、閉じる 3・現状更新 9・継続 66・人の判断待ち 11）
 
 - grasp-nishio のセッションから、Codex に `## Open Questions` の各項目を一次ソース（git blame・Updates・log・参照先の repo）で突合させ、別の Codex セッションが全判定を敵対的に検証した。報告は raw/open-questions-triage-2026-11-07.md・raw/open-questions-verify-2026-11-07.md
